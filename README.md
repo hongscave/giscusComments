@@ -1,3 +1,3 @@
 # giscusComments
 
-Comment system for my site hongct.net/devlogs/
+Comment system for my site theaveragelearner.com
